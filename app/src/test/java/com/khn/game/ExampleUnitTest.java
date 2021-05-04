@@ -1,4 +1,4 @@
-package com.example.game2;
+package com.khn.game;
 
 import org.junit.Test;
 

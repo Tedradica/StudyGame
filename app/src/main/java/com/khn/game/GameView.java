@@ -1,4 +1,4 @@
-package com.example.game2;
+package com.khn.game;
 
 import android.app.Activity;
 import android.content.Context;
